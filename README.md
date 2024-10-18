@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Martin
 
-<!--
-**m-gdz/m-gdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recently graduated **Software Engineer** with a research and international background, eager to contribute to exciting and innovative projects.
+- 🎓 I hold an **M.Eng** from **INP-ENSEEIHT** and an **M.Sc** from the **University of Amsterdam**.  
+- 🚀 I'm deeply passionate about **Software Architecture** of all kinds, **Safety-critical systems**, and **AI**.
 
-Here are some ideas to get you started:
+## 🌐 Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/mguidez" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="mailto:m.gdz@outlook.fr">
+  <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook" alt="Outlook">
+</a>
+
+---
+
+Feel free to explore my projects and get in touch!
