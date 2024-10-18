@@ -1,6 +1,11 @@
+<div align="center">
+  <img src="background.gif" alt="Be like water, flowing with ease." width="500"/>
+</div>
+
+
 # 👋 Hi there, I'm Martin
 
-Recently graduated **Software Engineer** with a research and international background, eager to contribute to exciting and innovative projects.
+Recently graduated Software Engineer with a research and international background, eager to contribute to exciting and innovative projects.
 - 🎓 I hold an **M.Eng** from **INP-ENSEEIHT** and an **M.Sc** from the **University of Amsterdam**.  
 - 🚀 I'm deeply passionate about **Software Architecture** of all kinds, **Safety-critical systems**, and **AI**.
 
